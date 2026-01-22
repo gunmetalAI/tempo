@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/badge/Python-3.5—3.8-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-Apache-black.svg)
 
-# ⏳ Tempo: The MLOps Software Development Kit
+# ⏳ Tempo: The MLOps Software Development Kit.
 
 An open source SDK to streamline workflows to productionise machine learning models at scale.
 
