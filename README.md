@@ -88,6 +88,6 @@ my_pipeline.wait_ready()
 my_pipeline.remote(np.array([[4.9, 3.1, 1.5, 0.2]]))
 ```
 
-## Examples
+## Examples:
 
 
