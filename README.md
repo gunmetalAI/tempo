@@ -11,7 +11,7 @@ An open source SDK to streamline workflows to productionise machine learning mod
 
 Tempo provides a unified interface to multiple MLOps projects that enable data scientists to deploy and productionise machine learning systems.
 
-## Motivating Example
+## Motivating Example.
 
 Tempo allows you to interact with scalable orchestration engines like Seldon Core and KFServing, and leverage a broad range of machine learning services like TFserving, Triton, MLFlow, etc.
 
